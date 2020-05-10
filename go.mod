@@ -4,6 +4,7 @@ go 1.14
 
 require (
 	github.com/AndreasBriese/bbloom v0.0.0-20190825152654-46b345b51c96 // indirect
+	github.com/ClickHouse/clickhouse-go v1.4.1-0.20200504172624-7b0f96ec3e5c
 	github.com/DataDog/zstd v1.4.4 // indirect
 	github.com/Shopify/sarama v1.22.2-0.20190604114437-cd910a683f9f
 	github.com/VividCortex/gohistogram v1.0.0 // indirect
